@@ -132,8 +132,5 @@ Claude AI (Anthropic) was used to assist with:
 All data analysis, statistical reasoning, and recommendations in the Jupyter notebook were written by the author with only low-level AI assistance (e.g. fixing syntax, looking up library functions).
 
 ---
-
-## 📬 Submission
-
-**Email**: hiring@reint.ai  
-**Subject**: Full Stack SWE challenge submission
+**Vercel**
+https://reint-wind-forecast.vercel.app
