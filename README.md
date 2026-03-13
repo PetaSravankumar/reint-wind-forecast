@@ -134,3 +134,10 @@ All data analysis, statistical reasoning, and recommendations in the Jupyter not
 ---
 **Vercel**
 https://reint-wind-forecast.vercel.app
+
+## 🌐 Live App
+**App**: https://reint-wind-forecast.vercel.app
+**Backend**: https://reint-wind-backend.onrender.com
+**Change the Tech Stack table**
+| Deployment | Vercel (frontend), Render (backend) |
+
